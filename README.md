@@ -45,9 +45,9 @@
 - Analytical Thinking Skills
 - Fast Paced - Agile Personal Project Management
 
-## Data Based Import data, 1 million impor data using Golang
+<!-- ## Data Based Import data, 1 million impor data using Golang
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Yoga-Saputra&repo=golang_import_large_csv_pgsql)](https://github.com/Yoga-Saputra/golang_import_large_csv_pgsql)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Yoga-Saputra&repo=golang_import_large_csv_pgsql)](https://github.com/Yoga-Saputra/golang_import_large_csv_pgsql) -->
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=Yoga-Saputra&show_icons=true&count_private=true&include_all_commits)
 ![](https://github.com/Yoga-Saputra/github-stats/blob/master/generated/overview.svg)
